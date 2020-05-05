@@ -2,9 +2,9 @@
 """
 Created on 2020
 
-@author: Julio Cuadros
+@author: Julio Jimmy Cuadros Acosta
 """
-"""FUNCIONANDO SERVIDOR LOCAL"""
+"""FUNCIONANDO SERVIDOR LOCAL """
 import pandas as pd
 import pyodbc
 from sqlalchemy import create_engine
